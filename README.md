@@ -1,5 +1,6 @@
 # ArraysLoopsStrings
-Lesson on Java Arrays, ArrayLists, Loops, Strings
+Lesson on Java Arrays, ArrayLists, Loops, Strings.<br>
+Finished. View the code <a href="https://github.com/txlocnguyen/jfs-arrays-loops-strings/blob/main/src/com/example/MSGrades/MSGrades.java">here</a>
 ## Directions to Clone and load in IntelliJ
 
 - Go to this [Repo](https://github.com/DevCoder0x0/jfs-arrays-loops-strings) and FORK this repository onto your github
